@@ -9,3 +9,5 @@
 3 Instalar las dependencias necesarias (npm install).
 
 4 Ejecutar la aplicacion con npm run dev.
+
+![image](https://github.com/user-attachments/assets/bdd5aaf8-d289-4020-bc3e-2b18cbbab763)
