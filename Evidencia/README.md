@@ -10,4 +10,6 @@
 
 4 Ejecutar la aplicacion con npm run dev.
 
+### Imagen del proyecto
+
 ![image](https://github.com/user-attachments/assets/bdd5aaf8-d289-4020-bc3e-2b18cbbab763)
