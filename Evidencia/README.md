@@ -14,3 +14,14 @@
 La misma tiene aplicado el filtro para que muestre menor cantidad de productos y sea mas legible. Cuenta con la posibilidad de visualizarse hasta 50 productos.
 
 ![image](https://github.com/user-attachments/assets/bdd5aaf8-d289-4020-bc3e-2b18cbbab763)
+
+
+# Segunda Evidencia
+
+## Estadisticas Incorporadas
+
+Las siguientes estadisticas fueron incorporadas a las ya requeridas en la tarea:
+   * Total de Productos: corresponde a la cantidad de productos que cumplen con el criterio de busqueda definido. Se obtiene contando la cantidad de elementos que se encuentran dentro del arreglo de filtrado.
+   * Precio Promedio: Es el valor promedio de los precios de los productos que fueron filtrados.
+
+Estos valores se actualizan automaticamente ante cualquier cambio en la informacion filtrada. 
