@@ -1,6 +1,6 @@
 # Primer Evidencia
 
-##**Pasos para la ejecucion del proyecto**
+## **Pasos para la ejecucion del proyecto**
 
 1 Clonar este repositorio
 2 Ingresar a la carpeta del proyecto clonada.
