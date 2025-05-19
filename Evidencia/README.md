@@ -25,3 +25,13 @@ Las siguientes estadisticas fueron incorporadas a las ya requeridas en la tarea:
    * Precio Promedio: Es el valor promedio de los precios de los productos que fueron filtrados.
 
 Estos valores se actualizan automaticamente ante cualquier cambio en la informacion filtrada. 
+
+## Componentes del Código
+
+Esta aplicacion se estructura por medio de los siguientes componentes:
+
+* **Tarjeta** Este componente muestra el nombre del alumno y la materia.
+* **Productlist** Es el componente que muestra en pantalla el titulo y le precio de los productos filtrados.
+* **Statspanel** Este componente recibe por propiedades las estadisticas y las renderiza.
+
+Modularizar el proyecto permite la reutilizacion de código, poder aislar y corregir inconvenientes, dar mantenimiento de una forma mas facil y ordenada.
